@@ -1,2 +1,2 @@
-# wechat
-payment QR code
+# Buy Me A Coffee
+![Alt text](wechat.jpg)
